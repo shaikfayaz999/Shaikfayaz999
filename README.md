@@ -186,14 +186,14 @@ Java • Android Studio • Python • SQLite • MySQL • TensorFlow Lite • 
 📧 Email:
 **shaikfayaz73822@gmail.com**
 
-💼 LinkedIn:
-YOUR_LINKEDIN_URL
+
+
 
 💻 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/YOUR_GITHU](https://github.com/shaikfayaz999
 
 🌐 Portfolio:
-YOUR_PORTFOLIO_URL
+https://shaik-fayaz-portfoli-8hpg.bolt.host
 
 </p>
 
